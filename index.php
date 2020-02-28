@@ -11,7 +11,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 
-		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC82IDAfivZUbTeNTxg9FtDgQyCAcyglsU"
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD5gQNzVSl1q3FZbEIZU6UYrufEJ-nLw4g"
             type="text/javascript"></script>
   		<script type="text/javascript" src="chartjs/Chart.js"></script>
 
